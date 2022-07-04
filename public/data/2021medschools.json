@@ -117,7 +117,7 @@
    {
       "university": "University of Central Lancashire",
       "sd": 3.067,
-      "avg": 39.666
+      "avg": 36.666
     },
     {
       "university": "University of Dundee",
@@ -137,45 +137,45 @@
     {
       "university": "University of Lancaster",
       "sd": 3.603,
-      "avg": 39.624
+      "avg": 39.276
     },
     {
       "university": "University of Leeds",
-      "sd": 2.942,
-      "avg": 41.016
+      "sd": 3.643,
+      "avg": 39.928
     },
     {
       "university": "University of Leicester",
-      "sd": 2.797,
-      "avg": 41.34
+      "sd": 2.893,
+      "avg": 40.366
     },
       "university": "University of Liverpool",
-      "sd": 3.334,
-      "avg": 39.68
+      "sd": 3.35,
+      "avg": 40.017
     },
     {
       "university": "University of Manchester",
-      "sd": 3.663,
-      "avg": 40.204
+      "sd": 3.374,
+      "avg": 39.974
     },
     {
       "university": "University of Nottingham",
-      "sd": 3.287,
-      "avg": 41.16
+      "sd": 3.512,
+      "avg": 39.639
     },
     {
       "university": "University of Oxford",
-      "sd": 2.853,
-      "avg": 41.893
+      "sd": 2.763,
+      "avg": 41.587
     },
     {
       "university": "University of Southampton",
-      "sd": 3.041,
-      "avg": 40.099
+      "sd": 3.658,
+      "avg": 39.54
     },
     {
       "university": "University of Swansea",
-      "sd": 3.408,
-      "avg": 40.543
+      "sd": 3.533,
+      "avg": 40.385
     }
   ]
