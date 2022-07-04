@@ -32,7 +32,7 @@ class App extends Component {
                         <h1>
                             <strong>FPAS</strong>
                             {' '}
-                            Calculator ⋅ 2021 Application Cycle
+                            Calculator ⋅ 2022 Application Cycle
                         </h1>
                     </Container>
                 </div>
